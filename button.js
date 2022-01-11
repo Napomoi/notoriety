@@ -1,7 +1,7 @@
 function changeColor() {
   var blueDiv = document.getElementById("changeable");
   blueDiv.text = "hello"
-  blueDiv.setAttribute('class,'purple');
+  blueDiv.setAttribute('class,'purple half');
 }
 
 function replaceWord() {
