@@ -1,5 +1,5 @@
 function changeColor() {
-  var blueDiv = document.getElementById("changeable");
+  var blueDiv =  document.getElementById("changeable");
   blueDiv.text = "hello"
   blueDiv.setAttribute('class,'purple half');
 }
