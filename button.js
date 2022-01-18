@@ -10,7 +10,7 @@ function replaceWord() {
   fetch("https://wordsapiv1.p.rapidapi.com/words/?random=true", {
     method: "GET",
     headers: {
-      "x-rapidapi-key": "your-api-key-here",
+      "x-rapidapi-key":  "wordsapiv1.p.rapidapi.com",
       "x-rapidapi-host": "api-host-here",
     },
   })
